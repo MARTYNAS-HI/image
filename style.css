@@ -1,0 +1,24 @@
+body {
+color:burlywood ;   
+background-color: darkseagreen;    
+}
+.heading {
+width:80%;
+font-size:22px;
+    
+    
+}
+.objects_name,#result_object_name,#result_object_accuracy
+{
+color: brown ;   
+ font-size: 25px;
+}
+#camera {
+border: 2px dashed grey;
+ width:350px;
+ height:300px;    
+}
+#result {
+ width:350px;
+ height:300px;    
+}
